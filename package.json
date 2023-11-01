@@ -1,0 +1,16 @@
+{
+  "name": "ult_tic_tac_toe",
+  "version": "1.0.0",
+  "description": "A game of ultimate tic tac toe using nodejs as backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.7.2"
+  }
+}
